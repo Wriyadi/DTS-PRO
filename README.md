@@ -1,7 +1,9 @@
-# DTS-PRO
+# DTS-PRO Demo Day
 Machine Learning with TensorFlow
-Add PercentOfBaseline for Country USA, Canada, Australia, and Chile, Prediction PercentOfBaseline using Models:
+Real PercentOfBaseline for Country USA, Canada, Australia, and Chile vs Prediction PercentOfBaseline using Models:
 - ARMA (Advanced Time Series Analysis)
-- Keras Sequential Layer LSTM (Long Short-Term Memory)
+- ARIMA (Advanced Time Series Analysis with Auto Regressive Integrated Moving Average)
+- Keras Sequential Layer LSTM (Long Short-Term Memory) for RNN
+- Conv1D (1D convolution layer) CNN & Bidirectional LSTM wrapper for RNNs
 
 Analized By : Willy Riyadi
